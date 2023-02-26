@@ -1,11 +1,9 @@
-import Button from "./Button";
-import styles from "./App.module.css";
-import {useState, useEffect} from "react";
+import {useState} from "react";
 
 function App() {
   
   return (
-  <div></div>
+    <div></div>
   );
 }
 
