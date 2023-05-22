@@ -1,4 +1,4 @@
-# https://sweet-daphne.github.io/React-for-beginners
+# https://sweet-daphne.github.io/react-for-beginners
 
 # Getting Started with Create React App
 
